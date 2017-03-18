@@ -1,4 +1,4 @@
-## Sy Dinh Git flow
+## Git flow
 
 Flow tham khảo: [Git flow of Framgia Viet Nam](https://github.com/framgia/coding-standards/blob/master/vn/git/flow.md)
 
