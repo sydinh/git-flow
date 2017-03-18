@@ -1,6 +1,6 @@
-## Framgia Git flow
+## Sy Dinh Git flow
 
-Flow tham khảo: [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+Flow tham khảo: [Git flow of Framgia Viet Nam](https://github.com/framgia/coding-standards/blob/master/vn/git/flow.md)
 
 ### Giả định
 * Đã tạo Central Repository (Nguồn trung tâm) trên Github（hoặc Bitbucket）。
